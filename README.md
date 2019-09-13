@@ -8,6 +8,6 @@ to get the password read carefuly this: https://support.google.com/mail/answer/1
 
 copy an amazon product url in the URL section and you're free to go.
 
-How to run on pc?
+How to run it on pc?
 1. make sure that you installed python
 2. open cmd and write python and the path of the the file
