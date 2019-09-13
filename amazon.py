@@ -34,15 +34,15 @@ def send_mail():
   server.starttls()
   server.ehlo()
 
-  server.login('hiallnigas@gmail.com', 'mdvctlwdusutqxby')
+  server.login('xxx@gmail.com', 'PASSWORD')
 
   subject = "Price is fall down"
   body = f'Hello Ghassen, you are the best human ever been. \n The Always Quote: Life Do Not Give You What You want, It Gives You What You Deserve \n So Mr.Best human ever been. I want to inform you that the price of the iPhone 256GB is now below 800 euros. Wanna buy it? Check this link then http://bit.ly/ghassenxamazonxiphon. \n After all have a good day sir'
 
   msg = f"Subject: {subject}\n\n{body}"
   server.sendmail(
-      'hiallnigas@gmail.com',
-      'jemaii.ghassen1@gmail.com',
+      'xxxx@gmail.com',
+      'xxxx@gmail.com',
       msg
   )  
   print("THE EMAIL IS SENT!")
