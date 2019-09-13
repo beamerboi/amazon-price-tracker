@@ -11,3 +11,7 @@ copy an amazon product url in the URL section and you're free to go.
 How to run it on pc?
 1. make sure that you installed python
 2. open cmd and write python and the path of the the file
+
+
+
+Greetings Beamerboi
